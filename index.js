@@ -38,15 +38,9 @@ async function run() {
             res.send(result);
         });
 
-        app.post("/blog", async (req, res)=>{
+        app.post("/blog", async (req, res) => {
             const newBlog = req.body;
             const result = await blogsCollection.insertOne(newBlog);
-            res.send(result);
-        })
-
-        app.get("/blogs", async (req, res) => {
-            const cursor = blogsCollection.find();
-            const result = await cursor.toArray();
             res.send(result);
         });
 
@@ -54,6 +48,29 @@ async function run() {
             const cursor = userCollection.find();
             const result = await cursor.toArray();
             res.send(result);
+        });
+
+        // all blogs
+        app.get("/blogs", async (req, res) => {
+            const cursor = blogsCollection.find();
+            const result = await cursor.toArray();
+            res.send(result);
+        });
+
+        // get the trendingBlogs
+
+        app.get("/trendingBlogs", async (req, res) => {
+            try {
+                const trendingBlogs = await blogsCollection
+                    .find({ category: { $regex: "trending", $options: "i" } })
+                    .toArray();
+                res.send(trendingBlogs);
+            } catch (error) {
+                res.status(500).send({
+                    message: "An error occurred while fetching data.",
+                    error,
+                });
+            }
         });
 
         app.get("/blogs/:id", async (req, res) => {
