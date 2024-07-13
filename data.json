@@ -1,0 +1,275 @@
+[
+    
+    {
+        "title": "Top 5 Trends in Fashion for 2024",
+        "content": "Stay ahead of the curve with the top fashion trends for 2024. This article highlights the must-have styles and colors for the year, as well as tips on how to incorporate them into your wardrobe. From sustainable fashion to bold prints, these trends are set to dominate the fashion world.",
+        "thumbnail": "https://www.istitutomarangoni.com/marangoni/entities/magazinearticle/T_dolce-and-gabbana-men-spring-summer-2024-fashion-show-backstage-gallery-01.jpg",
+        "author": {
+            "id": "1234",
+            "firstName": "Emily",
+            "lastName": "Brown",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_JP3p8M52qy4TQGX6-OEwiikpxjc-hiJIA&s"
+        },
+        "tags": "fashion, trends, style",
+        "category": "Fashion and Beauty",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T14:35:45.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Understanding Personal Finance: Tips for Better Money Management",
+        "content": "Managing personal finances can be challenging. This article offers practical tips for budgeting, saving, and investing. Learn about the importance of emergency funds, the benefits of different types of investments, and how to set achievable financial goals.",
+        "thumbnail": "https://creditkarma-cms.imgix.net/wp-content/uploads/2023/07/financial-advice-basics.png?w=1024&auto=compress",
+        "author": {
+            "id": "1235",
+            "firstName": "John",
+            "lastName": "Doe",
+            "avatar": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"
+        },
+        "tags": "finance, investing, money management, trending",
+        "category": "Finance and Investing",
+        "isFavourite": false,
+        "createdAt": "2024-07-14T09:45:50.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "10 Healthy Recipes for a Balanced Diet",
+        "content": "Discover 10 easy and delicious recipes to help maintain a balanced diet. From hearty salads to nutritious smoothies, these recipes will keep you healthy and satisfied.",
+        "thumbnail": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/06/grain-bowl-1296x728-header.jpg?w=1155&h=1528",
+        "author": {
+            "id": "1232",
+            "firstName": "Alice",
+            "lastName": "Johnson",
+            "avatar": "https://www.stryx.com/cdn/shop/articles/man-looking-attractive.jpg?v=1666662774"
+        },
+        "tags": "healthy eating, recipes, cooking",
+        "category": "Healthy Eating",
+        "isFavourite": false,
+        "createdAt": "2024-07-14T10:00:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Top 5 Restaurants in New York City",
+        "content": "Explore the top 5 restaurants in New York City. From fine dining to casual eateries, discover where to eat in the Big Apple.",
+        "thumbnail": "https://www.travelandleisure.com/thmb/Jw-KKDrA6z1nvDJbr5kyKJSG4vk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-oiji-mi-NEWNYCDINE0223-8c392080598d44dbafdbc87bbcf4d7dd.jpg",
+        "author": {
+            "id": "1233",
+            "firstName": "Bob",
+            "lastName": "Smith",
+            "avatar": "https://www.shutterstock.com/image-photo/young-handsome-man-feeling-happy-260nw-2347099575.jpg"
+        },
+        "tags": "restaurant reviews, food, nyc, trending",
+        "category": "Restaurant Reviews",
+        "isFavourite": false,
+        "createdAt": "2024-07-15T08:30:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Football: The Greatest Goals of All Time",
+        "content": "Relive the greatest goals in football history. From Maradona to Messi, these goals have left an indelible mark on the sport.",
+        "thumbnail": "https://talksport.com/wp-content/uploads/sites/5/2021/11/GettyImages-1236283114.jpg",
+        "author": {
+            "id": "1234",
+            "firstName": "Charlie",
+            "lastName": "Davis",
+            "avatar": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"
+        },
+        "tags": "football, sports, goals",
+        "category": "Football",
+        "isFavourite": false,
+        "createdAt": "2024-07-16T12:00:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "The Rise of AI in Modern Technology",
+        "content": "AI is transforming the tech landscape. From self-driving cars to advanced data analysis, learn how AI is shaping the future.",
+        "thumbnail": "https://media.licdn.com/dms/image/D4D12AQE5zX-W5Y3CCg/article-cover_image-shrink_720_1280/0/1690349776508?e=2147483647&v=beta&t=eiunfzw2Z1tMZYSA3i1ie3lopexhxMX1_3WnTjjlOKM",
+        "author": {
+            "id": "1235",
+            "firstName": "Dana",
+            "lastName": "Lee",
+            "avatar": "https://t3.ftcdn.net/jpg/01/42/01/84/360_F_142018449_yR0avsaJqbIx8NA47sINMoaxdtn1sPzh.jpg"
+        },
+        "tags": "ai, technology, machine learning, trending",
+        "category": "AI and Machine Learning",
+        "isFavourite": false,
+        "createdAt": "2024-07-17T09:45:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Travel Tips: How to Plan Your Perfect Vacation",
+        "content": "Planning a vacation can be overwhelming. Here are some tips to help you plan the perfect trip, from booking flights to finding the best accommodations.",
+        "thumbnail": "https://practicalwanderlust.com/wp-content/uploads/2017/02/How-to-Plan-a-Trip-Travel-Planning-Tips.jpg",
+        "author": {
+            "id": "1236",
+            "firstName": "Eva",
+            "lastName": "Martinez",
+            "avatar": "https://thumbs.dreamstime.com/z/portrait-cheerful-smiling-young-man-folded-arms-joyful-handsome-men-crossed-hands-studio-shot-isolated-gray-195089624.jpg"
+        },
+        "tags": "travel, tips, vacation",
+        "category": "Travel",
+        "isFavourite": false,
+        "createdAt": "2024-07-18T14:20:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "How to Boost Productivity in the Workplace",
+        "content": "Boosting productivity in the workplace can lead to better results and happier employees. Here are some strategies to help you get started.",
+        "thumbnail": "https://timetracko.com/blog/wp-content/uploads/2022/03/10-wayss-1-1024x576-1.webp",
+        "author": {
+            "id": "1237",
+            "firstName": "Frank",
+            "lastName": "Brown",
+            "avatar": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720828800&semt=sph"
+        },
+        "tags": "productivity, workplace, tips, trending",
+        "category": "Productivity",
+        "isFavourite": false,
+        "createdAt": "2024-07-19T11:15:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "The Evolution of Video Games",
+        "content": "Video games have come a long way since the early days of Pong. Explore the evolution of video games and see how they've changed over the years.",
+        "thumbnail": "https://media.licdn.com/dms/image/C4E12AQFvUj04pQ0TgA/article-cover_image-shrink_720_1280/0/1636943375348?e=2147483647&v=beta&t=j5nQKddzKkbJVj8FmYMV0H4HavHUJ1MIz6LuumV30go",
+        "author": {
+            "id": "1238",
+            "firstName": "Grace",
+            "lastName": "Wilson",
+            "avatar": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg"
+        },
+        "tags": "video games, entertainment, evolution",
+        "category": "Video Games",
+        "isFavourite": false,
+        "createdAt": "2024-07-20T13:50:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Finance Tips for Young Professionals",
+        "content": "Managing finances as a young professional can be challenging. Here are some tips to help you get started on the right foot.",
+        "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230315165428/10-Essential-Finance-Tips-for-Young-Adults-2.png",
+        "author": {
+            "id": "1239",
+            "firstName": "Hannah",
+            "lastName": "Taylor",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0f-HrfLkY-SekN7224v_Yn72taI1yfqqBg&s"
+        },
+        "tags": "finance, investing, tips, latest",
+        "category": "Finance and Investing",
+        "isFavourite": false,
+        "createdAt": "2024-07-21T07:30:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Top 10 JavaScript Frameworks in 2024",
+        "content": "JavaScript frameworks have become an essential part of modern web development. They provide structure and efficiency, allowing developers to build complex applications with ease. In this article, we explore the top 10 JavaScript frameworks in 2024, highlighting their features, use cases, and why they stand out.",
+        "thumbnail": "https://www.biztechcs.com/wp-content/uploads/2024/01/10-Most-Popular-Javascript-Frameworks-To-Consider-in-2024-1-jpg.webp",
+        "author": {
+            "id": "1232",
+            "firstName": "John",
+            "lastName": "Doe",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlkUsN8kY76HYkcY635xGaYAb6HzdJg1xHOw&s"
+        },
+        "tags": "javascript, programming, web development, latest",
+        "category": "Latest",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:30:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "AI in 2024: Trends and Predictions",
+        "content": "Artificial Intelligence continues to evolve rapidly, with new advancements and applications emerging every year. This article delves into the latest trends in AI for 2024, including new technologies, ethical considerations, and how AI is transforming various industries.",
+        "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6507ef021f82da452b935f67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "author": {
+            "id": "1233",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "avatar": "https://static.vecteezy.com/system/resources/thumbnails/002/010/315/small/asian-handsome-man-with-a-mustache-smiling-on-white-background-free-photo.jpg"
+        },
+        "tags": "ai, technology, machine learning, latest",
+        "category": "Trending",
+        "isFavourite": true,
+        "createdAt": "2024-07-13T13:00:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Healthy Eating: Top 10 Superfoods for 2024",
+        "content": "Superfoods are nutrient-rich foods that offer numerous health benefits. In this article, we explore the top 10 superfoods for 2024, their nutritional profiles, and how they can be incorporated into a healthy diet.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1KqTkYOTox4gkE5ARRCd4xjvNpCzVNJRRFg&s",
+        "author": {
+            "id": "1234",
+            "firstName": "Emily",
+            "lastName": "Brown",
+            "avatar": "https://www.inquirer.com/resizer/Cinij1ZfXh0wociQTj-tPq-FfsY=/760x507/smart/filters:format(webp)/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/QAO7P767GNB57KACJMQN2BV5HY.jpg"
+        },
+        "tags": "health, food, nutrition",
+        "category": "Healthy Eating",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T13:30:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Latest Cricket World Cup 2024 Highlights",
+        "content": "The Cricket World Cup 2024 has been filled with thrilling matches and memorable moments. This article provides a comprehensive overview of the latest highlights, key players, and match summaries.",
+        "thumbnail": "https://www.cricadium.com/wp-content/uploads/2024/06/3e68d0ac-8046-4f66-9f8f-3df8f5e87dce-jpeg.webp",
+        "author": {
+            "id": "1235",
+            "firstName": "Michael",
+            "lastName": "Johnson",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoQiFSe51fg-5D5f9dC0uT5RorsI_VYxvlw&s"
+        },
+        "tags": "cricket, sports, world cup",
+        "category": "Cricket",
+        "isFavourite": true,
+        "createdAt": "2024-07-13T14:00:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Top 10 Personal Development Books to Read in 2024",
+        "content": "Personal development books can provide valuable insights and strategies for improving various aspects of life. This article lists the top 10 personal development books to read in 2024, covering topics such as productivity, mental health, and self-improvement.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQryjCeHUYq_9dKxbzx0TOZWAczG_qamEHZCA&s",
+        "author": {
+            "id": "1236",
+            "firstName": "Sophia",
+            "lastName": "Williams",
+            "avatar": "https://media.istockphoto.com/id/613557584/photo/portrait-of-a-beautifull-smiling-man.jpg?s=612x612&w=0&k=20&c=hkCg5CrmTKOApePbPOyo1U9GexEfIJOJqoLXJIvcN8E="
+        },
+        "tags": "personal development, books, self-improvement, latest",
+        "category": "Personal Development",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T14:30:00.000Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "The Future of Cybersecurity: Key Trends for 2024",
+        "content": "As technology advances, cybersecurity threats continue to evolve. This article examines the key trends in cybersecurity for 2024, including emerging threats, new technologies, and best practices for protecting data and systems.",
+        "thumbnail": "https://media.licdn.com/dms/image/D4D12AQHSYV96RPL5UQ/article-cover_image-shrink_720_1280/0/1704702828936?e=2147483647&v=beta&t=bebPDFdprKY8gZrGgeC9BZJaBgJcHKI0xqpLZgGHDvA",
+        "author": {
+            "id": "1237",
+            "firstName": "Daniel",
+            "lastName": "Martinez",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThBkPucLTQKrWbbs2I4V_WtWATNlgHVKbh2g&s"
+        },
+        "tags": "cybersecurity, technology, data protection, latest",
+        "category": "Cybersecurity",
+        "isFavourite": true,
+        "createdAt": "2024-07-13T15:00:00.000Z",
+        "likes": [],
+        "comments": []
+    }
+]
