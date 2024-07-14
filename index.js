@@ -78,7 +78,7 @@ async function run() {
         app.get("/latestBlogs", async (req, res) => {
             try {
                 const trendingBlogs = await blogsCollection
-                    .find({ category: "Latest"})
+                    .find({ category: "Latest" })
                     .toArray();
                 res.send(trendingBlogs);
             } catch (error) {
@@ -88,6 +88,25 @@ async function run() {
                 });
             }
         });
+
+
+        // get the popularBlogs
+
+        app.get("/popularBlogs", async (req, res) => {
+            try {
+                const trendingBlogs = await blogsCollection
+                    .find({ category: "Popular" })
+                    .toArray();
+                res.send(trendingBlogs);
+            } catch (error) {
+                res.status(500).send({
+                    message: "An error occurred while fetching data.",
+                    error,
+                });
+            }
+        });
+
+        
 
         app.get("/blogs/:id", async (req, res) => {
             const id = req.params.id;

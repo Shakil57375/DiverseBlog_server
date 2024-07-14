@@ -1,0 +1,104 @@
+[
+    {
+        "title": "The Future of Blockchain Technology",
+        "content": "Blockchain technology is reshaping industries by providing a decentralized and secure way of recording transactions. This article explores its potential future applications and the challenges it faces.",
+        "thumbnail": "https://lnct.ac.in/wp-content/uploads/2021/04/Block-Chain-B.jpg",
+        "author": {
+            "id": "1234",
+            "firstName": "Emily",
+            "lastName": "Brown",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_JP3p8M52qy4TQGX6-OEwiikpxjc-hiJIA&s"
+        },
+        "tags": "blockchain, technology, finance",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Mastering the Art of French Cooking",
+        "content": "Learn the secrets of French cuisine with these cooking tips and recipes. From classic dishes to modern interpretations, this article covers everything you need to become a master of French cooking.",
+        "thumbnail": "https://i.ytimg.com/vi/t3dV1aDKrFI/maxresdefault.jpg",
+        "author": {
+            "id": "1235",
+            "firstName": "John",
+            "lastName": "Doe",
+            "avatar": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"
+        },
+        "tags": "cooking, recipes, French cuisine",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Understanding Quantum Computing",
+        "content": "Quantum computing promises to revolutionize the tech industry with its potential to solve complex problems faster than classical computers. This article explains the basics of quantum computing and its possible impact.",
+        "thumbnail": "https://www.investopedia.com/thmb/mL2a2GAnrskc-ebuq-UT-GM_bwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quantum-computing.asp-FINAL-1-68635090f7534414b9173598fe0ad95c.png",
+        "author": {
+            "id": "1232",
+            "firstName": "Alice",
+            "lastName": "Johnson",
+            "avatar": "https://www.stryx.com/cdn/shop/articles/man-looking-attractive.jpg?v=1666662774"
+        },
+        "tags": "quantum computing, technology, science",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "10 Tips for Successful Remote Work",
+        "content": "Remote work has become the new norm for many professionals. This article provides 10 tips for staying productive, maintaining work-life balance, and overcoming common challenges of remote work.",
+        "thumbnail": "https://media.licdn.com/dms/image/D4D12AQFYbpi8WO2NgA/article-inline_image-shrink_1500_2232/0/1698665021701?e=1726099200&v=beta&t=6jH2MhA-b_rL2nsu52jhVubYpiPyAJMc_rq3RH6NjJ4",
+        "author": {
+            "id": "1233",
+            "firstName": "Bob",
+            "lastName": "Smith",
+            "avatar": "https://www.shutterstock.com/image-photo/young-handsome-man-feeling-happy-260nw-2347099575.jpg"
+        },
+        "tags": "remote work, productivity, tips",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Exploring the Marvel Cinematic Universe",
+        "content": "The Marvel Cinematic Universe (MCU) has captivated audiences worldwide. This article delves into the history of the MCU, key characters, and what fans can expect from upcoming films and TV shows.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/1200px-Marvel_Cinematic_Universe_logo.png",
+        "author": {
+            "id": "1235",
+            "firstName": "Dana",
+            "lastName": "Lee",
+            "avatar": "https://t3.ftcdn.net/jpg/01/42/01/84/360_F_142018449_yR0avsaJqbIx8NA47sINMoaxdtn1sPzh.jpg"
+        },
+        "tags": "Marvel, movies, entertainment",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    },
+    {
+        "title": "Top Fitness Trends for 2024",
+        "content": "Stay ahead of the curve with these top fitness trends for 2024. From new workout routines to the latest fitness technology, this article covers everything you need to stay fit and healthy.",
+        "thumbnail": "https://mma.prnewswire.com/media/2301208/canfitpro_Fitness_pros_weigh_in_on_top_fitness_trends_for_2024.jpg?p=facebook",
+        "author": {
+            "id": "1237",
+            "firstName": "Frank",
+            "lastName": "Brown",
+            "avatar": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720828800&semt=sph"
+        },
+        "tags": "fitness, health, trends",
+        "category": "Popular",
+        "isFavourite": false,
+        "createdAt": "2024-07-13T12:18:20.882Z",
+        "likes": [],
+        "comments": []
+    }
+]
